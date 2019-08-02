@@ -6,3 +6,13 @@ A .git folder is created and it stores all metadata.
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 The stagin area is where there are the files that will be commited. The repository has files that could be commited (previous adding to the staging area or not - foo files -) and the repository has the commited files - at least one commit - .
+
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+You can add only from workspace the files involved with one logical change and once committed add the other changes.
+
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+When you have different environments of testing and deployment is useful to have different branches. One for Testing, one for User Testing, one for Pre..
