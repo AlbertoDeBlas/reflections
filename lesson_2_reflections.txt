@@ -27,3 +27,8 @@ What is the result of merging two branches together? Why do we represent it in t
 
 The result is that we have the changes made in both branches united. We represent as one branch returns to the flow because once merge is done we only have
 one "code stream".
+
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+IT saves you time when the lines to merge are obvious which ones can be merged.
