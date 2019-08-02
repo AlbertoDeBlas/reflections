@@ -1,3 +1,8 @@
 What happens when you initialize a repository? Why do you need to do it?
 
 A .git folder is created and it stores all metadata.
+
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+The stagin area is where there are the files that will be commited. The repository has files that could be commited (previous adding to the staging area or not - foo files -) and the repository has the commited files - at least one commit - .
