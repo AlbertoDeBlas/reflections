@@ -11,7 +11,9 @@ Because not not always I would want to share changes with others, only when make
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
 
-    Fill in your answer here
+Fork: When you want to clone one repository from a github project to your user repository. Then is traceable and appears on the other repository who forked.
+Clone: When you want to copy locally a repository from your Github repository or from another user/proect
+Branch: To start different functionality to a repository, maybe merged later or not, only for showing/demo/experimental purposes.
 
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
