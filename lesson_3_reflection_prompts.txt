@@ -24,7 +24,7 @@ than a large merge. Finally, having the latest changes is better to test the cod
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+I will collaborate in open source projects that interest me to help them and to learn and improve my coding skills. The easier part would be to make a fork and the harder part would be to make manual merges on projects that I am not familiar into them.
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
