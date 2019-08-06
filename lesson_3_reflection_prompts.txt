@@ -18,7 +18,8 @@ Branch: To start different functionality to a repository, maybe merged later or 
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
+The benefit is that having the latest changes there are less probabilities of having to do a manual merge. Also, a tiny merge is preferable
+than a large merge. Finally, having the latest changes is better to test the code in an integrated way.
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
