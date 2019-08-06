@@ -29,4 +29,5 @@ I will collaborate in open source projects that interest me to help them and to 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+When working with other people, and with changes that have to be approved by someone is useful to work in a different branch and then make a pull request.
+
